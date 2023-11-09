@@ -4,7 +4,7 @@
 
 Sure, here is a full-on tutorial about PHP OOP (Object-Oriented Programming) with easy-to-understand examples, tailored for our Aussie mate:
 
-Oi, oi, oi! Let's dive into PHP OOP, drongo
+**Oi, oi, oi! Let's dive into PHP OOP, drongo**
 
 Imagine you're a true blue Aussie bloke, standing in the middle of the outback. You're surrounded by kangaroos, wallabies, and emus. How would you organize those creatures in a way that makes sense, mate?
 
