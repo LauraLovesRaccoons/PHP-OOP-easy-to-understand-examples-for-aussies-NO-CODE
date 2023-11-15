@@ -1,4 +1,4 @@
-# mate write me A full on tutorial about php oop (NOT CODING) what are childs parents constructors private static, public static functions and shit mate with easy to understand examples because i'm aussie and shit _______ and speak strayan mate
+# Tutorial about php oop (NOT CODING) what are childs, parents, constructors, private, static & public static functions and with easy to understand examples in a way that even an aussie can understand it
 
 ----------------------------------------------------
 
